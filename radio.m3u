@@ -1,8 +1,10 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="1LIVE diggi" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/1livediggi.png",1LIVE diggi
-http://wdr-1live-diggi.icecast.wdr.de/wdr/1live/diggi/mp3/128/stream.mp3
 #EXTINF:-1 tvg-name="ANTENNE BAYERN" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/antennebayern.png",ANTENNE BAYERN
 http://mp3channels.webradio.antenne.de:80/antenne
+#EXTINF:-1 tvg-name="ROCK ANTENNE" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/rockantenne.png",ROCK ANTENNE
+http://mp3channels.webradio.rockantenne.de/rockantenne
+#EXTINF:-1 tvg-name="ROCK ANTENNE HEAVY-METAL" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/rockantenne.png",ROCK ANTENNE HEAVY-METAL
+http://stream.rockantenne.de/heavy-metal
 #EXTINF:-1 tvg-name="BR24" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/br24.png",BR24
 https://dispatcher.rndfnk.com/br/br24/live/mp3/mid
 #EXTINF:-1 tvg-name="BR24 live" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/br24live.png",BR24 live
@@ -15,10 +17,10 @@ https://dispatcher.rndfnk.com/br/br2/sued/mp3/mid
 https://dispatcher.rndfnk.com/br/br3/live/mp3/mid
 #EXTINF:-1 tvg-name="BR-Klassik" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/brklassik.png",BR-Klassik
 https://dispatcher.rndfnk.com/br/brklassik/live/mp3/high
-#EXTINF:-1 tvg-name="Campusradio Passau (Campus Crew)" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/campuscrew.png",Campusradio Passau (Campus Crew)
-http://server14575.streamplus.de/listen.mp3
 #EXTINF:-1 tvg-name="NDR Schlager" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/ndrschlager.png",NDR Schlager
 https://dispatcher.rndfnk.com/ndr/ndrschlager/live/mp3/128/stream.mp3
+#EXTINF:-1 tvg-name="Schlagerparadies" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/schlagerparadies.png",Schlagerparadies
+https://webstream.schlagerparadies.de/schlagerparadies128.mp3
 #EXTINF:-1 tvg-name="RADIO BOB! national" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiobob.png",RADIO BOB! national
 https://streams.radiobob.de/bob-national/mp3-192/mediaplayer
 #EXTINF:-1 tvg-name="RADIO BOB! Metal" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiobob.png",RADIO BOB! Metal
@@ -33,9 +35,7 @@ https://streams.radiobob.de/blues/mp3-192/mediaplayer/
 https://streams.radiobob.de/collegerock/mp3-192/mediaplayer/
 #EXTINF:-1 tvg-name="RADIO BOB! Christmas" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiobob.png",RADIO BOB! Christmas
 https://streams.radiobob.de/bob-christmas/mp3-192/mediaplayer/
-#EXTINF:-1 tvg-name="ROCK ANTENNE" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/rockantenne.png",ROCK ANTENNE
-http://mp3channels.webradio.rockantenne.de/rockantenne
-#EXTINF:-1 tvg-name="ROCK ANTENNE HEAVY-METAL" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/rockantenne.png",ROCK ANTENNE HEAVY-METAL
-http://stream.rockantenne.de/heavy-metal
-#EXTINF:-1 tvg-name="Schlagerparadies" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/schlagerparadies.png",Schlagerparadies
-https://webstream.schlagerparadies.de/schlagerparadies128.mp3
+#EXTINF:-1 tvg-name="1LIVE diggi" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/1livediggi.png",1LIVE diggi
+http://wdr-1live-diggi.icecast.wdr.de/wdr/1live/diggi/mp3/128/stream.mp3
+#EXTINF:-1 tvg-name="Campusradio Passau (Campus Crew)" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/campuscrew.png",Campusradio Passau (Campus Crew)
+http://server14575.streamplus.de/listen.mp3
